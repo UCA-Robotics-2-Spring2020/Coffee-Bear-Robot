@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 
 drfred = "DrFred"
-print drfred
+print(drfred)
